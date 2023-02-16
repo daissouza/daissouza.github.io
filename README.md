@@ -1,4 +1,4 @@
 # Portfolio
-This portfolio was created with the help and support of the HTML and CSS course for beginners on the Origamid study platform.
+Este portfólio foi criado com o auxílio e suporte do curso de HTML e CSS para iniciantes na plataforma de estudos Origamid.
 
-The purpose of this project will be for the analysis of recruiters interested in my profile.
+O objetivo deste projeto será para análise de recrutadores interessados no meu perfil.
